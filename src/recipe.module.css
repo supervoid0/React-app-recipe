@@ -7,12 +7,13 @@
     background: white;
     align-items: center;
     min-width: 40%;
+    max-width: 50%;
+    margin-bottom: 20px;
+    padding: 20px;
 }
 
 .image{
     border-radius: 50%;
     height: 300px;
     width: 300px;
-
-
 }
